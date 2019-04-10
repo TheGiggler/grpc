@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp2.2/FinanceRPC.cs \
+obj\Debug\netcoreapp2.2/FinanceRPCGrpc.cs: FinanceRPC.proto

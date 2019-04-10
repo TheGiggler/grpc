@@ -1,0 +1,10 @@
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\bin\Debug\netcoreapp2.2\FinancialGrpcService.deps.json
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\bin\Debug\netcoreapp2.2\FinancialGrpcService.runtimeconfig.json
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\bin\Debug\netcoreapp2.2\FinancialGrpcService.runtimeconfig.dev.json
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\bin\Debug\netcoreapp2.2\FinancialGrpcService.dll
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\bin\Debug\netcoreapp2.2\FinancialGrpcService.pdb
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\obj\Debug\netcoreapp2.2\FinancialGrpcService.csproj.CoreCompileInputs.cache
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\obj\Debug\netcoreapp2.2\FinancialGrpcService.AssemblyInfoInputs.cache
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\obj\Debug\netcoreapp2.2\FinancialGrpcService.AssemblyInfo.cs
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\obj\Debug\netcoreapp2.2\FinancialGrpcService.dll
+C:\Users\mctoc\source\repos\FinancialGrpcService\FinancialGrpcService\obj\Debug\netcoreapp2.2\FinancialGrpcService.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialGrpcService", "FinancialGrpcService\FinancialGrpcService.csproj", "{828E143E-5284-4598-BECA-829CC21F6074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828E143E-5284-4598-BECA-829CC21F6074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828E143E-5284-4598-BECA-829CC21F6074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828E143E-5284-4598-BECA-829CC21F6074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828E143E-5284-4598-BECA-829CC21F6074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D12D473-5E1E-40B6-88D7-8B2078A9C6DE}
+	EndGlobalSection
+EndGlobal
